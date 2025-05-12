@@ -1,0 +1,1 @@
+audio_play_sound(vanilla_dolphin_dance, 0 ,true );
