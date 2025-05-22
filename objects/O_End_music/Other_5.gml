@@ -1,0 +1,1 @@
+audio_stop_sound(vanilla_dolphin_dance_inversed);
